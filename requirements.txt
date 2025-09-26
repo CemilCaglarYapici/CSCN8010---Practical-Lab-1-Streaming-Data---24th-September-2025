@@ -1,0 +1,8 @@
+All requirements for our Python Project and Libraries:
+
+-Pandas
+-Png images
+-CVS for dataset
+-Matplotlib
+-Seaborn
+-Plotly
